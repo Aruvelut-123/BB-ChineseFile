@@ -1,0 +1,16 @@
+{"items":[
+
+{"key":"Event_Electricity1","value":"哦不, 看起来学校停电了!"},
+{"key":"Event_Electricity2","value":"但不要担心我的电视,因为它有电池!"},
+{"key":"Event_HookChaos1","value":"由于钩爪过多，为了提高生产率"},
+{"key":"Event_HookChaos2","value":"我把它给了所有人!"},
+{"key":"Event_HookChaos3","value":"小心!"},
+{"key":"Event_TeleportationChaos1","value":"不好! 有人开了我的随机传送器!"},
+{"key":"Event_TeleportationChaos2", "value":"我认为你应该准备好,因为会有一些意想不到的乐趣!"},
+{"key":"Event_Sound", "value": ""},
+{"key":"Event_Fire1","value":"注意,所有人!"},
+{"key":"Event_Fire2","value":"学校发生了火灾!"},
+{"key":"Event_Fire3","value":"我建议不要靠近他们，"},
+{"key":"Event_Fire4","value":"否则，你可能会失明!"}
+
+]}

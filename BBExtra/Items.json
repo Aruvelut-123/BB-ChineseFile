@@ -1,0 +1,23 @@
+{"items":[
+
+{"key":"Item_Shield","value":"盾牌"},
+{"key":"Item_Shield_Desk","value":"盾牌\n之前尝试逃离Baldi的学生制造了一个盾牌以保护他们,但是\n使用之后,它只会保护你20秒!"},
+{"key":"Item_Calculator","value":"计算器"},
+{"key":"Item_Calculator_Desk","value":"计算器\n这个设备是为了给那些没时间解决问题的人而从办公室偷来的!\n对于解决<color=red>非常难的</color>题目很有用！!"},
+{"key":"Item_Potion","value":"速度药水"},
+{"key":"Item_Potion_Desk","value":"速度药水\n你喜欢奔跑,但不喜欢关禁闭?\n喝下药水你将会快半分钟!"},
+{"key":"Item_GravityDevice","value":"重力装置"},
+{"key":"Item_GravityDevice_Desk","value":"重力装置\n盾牌对你来说太贵了? 这是一个替代品! 由一个神秘的人开发,\n你可以改变你自身的重力!\n(因为电量不足, 它只能维持15秒)"},
+{"key":"Item_Glue","value":"胶水"},
+{"key":"Item_Glue_Desk","value":"胶水\n这是Johnny他自己的胶水,如果你把它挤出来,那么所有人都必须踩在上面然后被黏住!"},
+{"key":"Item_IceBomb","value":"冰冻炸弹"},
+{"key":"Item_IceBomb_Desk","value":"冰冻炸弹\n冻结所有人5秒然后让他们因为冰冻走得更慢!"},
+{"key":"IceBombUsed", "value":"*Ice Shock*"},
+{"key":"Item_MagicRuby","value":"魔法宝石"},
+{"key":"Item_MagicRuby_Desk","value":"魔法宝石\nT这个奇怪的宝石可以制造传送门!但它只能使用一次,然后你可以回到你使用它的地方!"},
+{"key":"Item_TimeRewinder","value":"时间倒流之钟"},
+{"key":"Item_TimeRewinder_Desk","value":"时间倒流之钟\n一个可以回溯NPC5秒前的动作的奇怪小设备"},
+{"key":"Item_StrawberryZestyBar","value":"草莓味能量棒"},
+{"key":"Item_StrawberryZestyBar_Desk","value":"草莓味能量棒\n巧克力棒现在依靠草莓味变得更加富含能量!给予你300%的体力并且保留草莓的味道!\n但这个有副作用 - 即使你站着,体力也会流失!"}
+	
+]}

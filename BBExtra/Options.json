@@ -1,0 +1,15 @@
+{"items":[
+
+{"key":"BBEOption","value":"BBE设置"},
+{"key":"WelcomeOption","value":"欢迎来到Baldi's Basics <color=red>增强版</color>\n设置界面!"},
+{"key":"ModVersion","value":"当前版本: {0}\n最新版本: {1}"},
+{"key":"CheckVersion","value":"检查模组更新"},
+{"key":"CheckVersionDesk","value":"从GitHub检查模组更新！"},
+{"key":"WentWrong","value":"啊哦... 有些东西出错了..."},
+{"key":"OpenGamebananaPage","value":"打开gamebanana"},
+{"key":"OpenGamebananaPageDesk","value":"从gamebanana检查模组更新!"},
+{"key":"OpenGithubPage","value":"打开GitHub"},
+{"key":"OpenGithubPageDesk","value":"从GitHub检查模组原代码!"},
+{"key":"OpenFolder","value":"打开模组文件夹"},
+{"key":"OpenFolderDesk","value":"打开模组的贴图文件夹!"}
+]}
