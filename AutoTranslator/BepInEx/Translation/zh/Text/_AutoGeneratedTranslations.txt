@@ -126,7 +126,7 @@ Noclip=穿墙
 Super Speed=<size\=15>走的跟博尔特一样快!
 Unlimited Items=无限道具
 You get detention!\n  seconds remain.=你因犯错被禁闭了!\n秒剩余时间解锁
-Baldi's Basics Plus\nby Micah McGonigal\n\nCreated with the Unity game engine=Baldi's Basics Plus\nMicah McGonigal\n\n汉化\nMEMZSystem32&Baymax\n\n使用Unity编写
+Baldi's Basics Plus\nby Micah McGonigal\n\nCreated with the Unity game engine=Baldi's Basics Plus\nMicah McGonigal\n\n汉化\nMEMZSystem32&Baymax\nTMP字体: CMCGZP\n\n使用Unity编写
 Baldi's Basics Plus is not sponsored by or affiliated with Unity Technologies or its affiliates. "Unity" is a trademark or registered trademark of Unity Technologies or its affiliates in the U.S. and elsewhere.=Baldi's Basics Plus不由Unity Technologies或其附属公司赞助或附属. "Unity"是Unity Technologies或其附属公司在美国和其他地方的商标或注册商标. 
 Voices:\nCady Bradshaw - Mrs. Pomp, Johnny\nPadre Snowmizzle - Beans=配音:\nCady Bradshaw - 庞朴夫人(Mrs. Pomp), 约翰尼 (Johnny)\nPadre Snowmizzle - 土豆 (Beans)
 Artists:\nPadre Snowmizzle - Beans\nCaleb Hall - Basically Games Logo=画师:\nPadre Snowmizzle - 土豆(Beans)\nCaleb Hall - Basically Games的Logo
